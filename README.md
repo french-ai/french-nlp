@@ -162,7 +162,8 @@ A
 
 <a href="https://ibb.co/j8Ctnkv"><img src="https://i.ibb.co/GdZmzQv/undraw-active-support-6rwo.png" alt="undraw-active-support-6rwo" width="200"></a>
 
-Les contributions sont les bienvenues! 
+Les contributions sont les bienvenues!
+[Vous pouvez éditer le README](https://github.com/french-ai/french-nlp/edit/master/README.md)
 
 - - -
 
