@@ -162,10 +162,8 @@ A
 
 <a href="https://ibb.co/j8Ctnkv"><img src="https://i.ibb.co/GdZmzQv/undraw-active-support-6rwo.png" alt="undraw-active-support-6rwo" width="200"></a>
 
-Vos contributions sont les bienvenues! 
-
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/vinta/awesome-python/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+Les contributions sont les bienvenues! 
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@VintaChen](https://twitter.com/VintaChen) on Twitter or open an issue on GitHub.
+Si vous avez des questions, n'hésitez pas à me contacter: [@aquadzn](https://github.com/aquadzn)
