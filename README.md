@@ -60,7 +60,10 @@
 
 # Librairies
 
-Hello
+* [Transformers](https://github.com/huggingface/transformers)
+* [SpaCy](https://spacy.io/models/fr)
+* [NLTK](https://www.nltk.org/)
+* [Gensim](https://radimrehurek.com/gensim/)
 
 # Analyse de sentiment
 
