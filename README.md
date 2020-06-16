@@ -21,67 +21,121 @@
 
 # Sommaire
 
-- [Code](#code)
-    - [Modèles](#modeles)
-    - [Librairies](#librairies)
-- [Jeux de données](#jeux-de-donnees)
-    - [Texte](#texte)
-- [Ressources](#ressources)
-    - [Articles](#books)
-    - [Tutoriels](#books)
-    - [Companies](#books)
-    - [Podcasts](#books)
+- [Modèles](#modèles)
+- [Librairies](#librairies)
+- [Analyse de sentiment](#analyse-de-sentiment)
+  - [Code](#code)
+  - [Jeux de données](#jeux-de-données)
+  - [Articles](#articles)
+- [Génération de texte](#génération-de-texte)
+  - [Code](#code)
+  - [Jeux de données](#jeux-de-données)
+  - [Articles](#articles)
+- [Classification de texte](#classification)
+  - [Code](#code)
+  - [Jeux de données](#jeux-de-données)
+  - [Articles](#articles)
+- [Réponses aux questions](#réponses-aux-questions)
+  - [Code](#code)
+  - [Jeux de données](#jeux-de-données)
+  - [Articles](#articles)
+- [Résumé de texte](#résumé-de-texte)
+  - [Code](#code)
+  - [Jeux de données](#jeux-de-données)
+  - [Articles](#articles)
 - [Contribuer](#contribuer)
+- [Autres](#autres)
+  - [Code](#code)
+  - 
 
 ---
 
-## Code
+# Modèles
 
-*Libraries for administrative interfaces.*
+<a href="https://ibb.co/GxXJJh1"><img src="https://i.ibb.co/p0gPPms/undraw-code-inspection-bdl7.png" alt="undraw-code-inspection-bdl7" width="200"></a>
 
-#### Modèles
+* [CamemBERT](https://camembert-model.fr/) - A tasty French Language Model.
+* [FlauBERT](https://github.com/getalp/Flaubert) - Unsupervised Language Model Pre-training for French.
+* [Deepfrench](https://github.com/tchambon/deepfrench) - French LM implementation of ULMFiT.
 
-* [flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery.
-* [wooey](https://github.com/wooey/wooey) - A Django app which creates automatic web UIs for Python scripts.
+# Librairies
 
-#### Librairies
+Hello
 
-*Python implementation of data structures, algorithms and design patterns.*
+# Analyse de sentiment
 
-* Algorithms
-    * [TheAlgorithms](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
-    * [algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms.
-    * [python-ds](https://github.com/prabhupant/python-ds) - A collection of data structure and algorithms for coding interviews.
-    * [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
-* Design Patterns
-    * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple yet effective library for implementing common design patterns.
+### Code
 
+* [french-sentiment-analysis-with-bert](https://github.com/TheophileBlard/french-sentiment-analysis-with-bert) - Analyse de sentiments avec BERT.
 
-## Jeux de données
+### Jeux de données
 
-#### Texte
+* [Allociné](https://github.com/TheophileBlard/french-sentiment-analysis-with-bert) - Allociné user reviews.
+* [Aspect-Based Sentiment Analysis in French](http://www.lrec-conf.org/proceedings/lrec2016/summaries/61.html) - Contient 457 avis de restaurants et 162 de musées.
 
-trhtrhrzjrejtjrhhj
-
-
-## Ressources
-
-#### Articles
+### Articles
 
 A
 
-#### Tutoriels
+# Génération de texte
 
-B
+### Code
 
-#### Companies
+* [GPT2 French](https://github.com/aquadzn/gpt2-french) - Démo française de GPT-2.
 
-C
+### Jeux de données
 
-#### Podcasts
+* [Reddit français](https://www.kaggle.com/breandan/french-reddit-discussion) - Posts sur le sub français de Reddit.
+
+### Articles
+
+A
+
+# Classification de texte
+
+### Code
+
+* [Deepfrench classifier](https://github.com/tchambon/deepfrench/blob/master/ULMFit%20Classifier%20example.ipynb) - Classification avec Deepfrench.
+
+### Jeux de données
+
+* [FLUE](https://github.com/getalp/Flaubert/tree/master/flue#1-text-classification-cls) - Classification de texte.
+
+### Articles
 
 
-## Contribuer
+
+# Réponses aux questions
+
+### Code
+
+* [FQuAD](https://illuin-tech.github.io/FQuAD-explorer/) - The French Question Answering Dataset.
+
+### Jeux de données
+
+* [FQuAD](https://illuin-tech.github.io/FQuAD-explorer/) - The French Question Answering Dataset.
+
+### Articles
+
+
+
+# Résumé de texte
+
+### Code
+
+
+
+### Jeux de données
+
+* [Articles de journaux français](https://webhose.io/free-datasets/french-news-articles/) - Articles avec titres et textes complets
+
+### Articles
+
+A
+
+# Contribuer
+
+<a href="https://ibb.co/j8Ctnkv"><img src="https://i.ibb.co/GdZmzQv/undraw-active-support-6rwo.png" alt="undraw-active-support-6rwo" width="200"></a>
 
 Vos contributions sont les bienvenues! 
 
