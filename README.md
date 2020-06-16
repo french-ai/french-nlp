@@ -52,8 +52,6 @@
 
 # Modèles
 
-<a href="https://ibb.co/GxXJJh1"><img src="https://i.ibb.co/p0gPPms/undraw-code-inspection-bdl7.png" alt="undraw-code-inspection-bdl7" width="200"></a>
-
 * [CamemBERT](https://camembert-model.fr/) - A tasty French Language Model.
 * [FlauBERT](https://github.com/getalp/Flaubert) - Unsupervised Language Model Pre-training for French.
 * [Deepfrench](https://github.com/tchambon/deepfrench) - French LM implementation of ULMFiT.
@@ -121,6 +119,30 @@ A
 ### Articles
 
 
+
+# Traduction
+
+### Code
+
+* [EN-FR](https://github.com/deep-diver/EN-FR-MLT-tensorflow) - Traduction machine EN-FR avec Tensorflow
+
+### Jeux de données
+
+* [Aligned Hansards of the 36th Parliament of Canada](https://www.isi.edu/natural-language/download/hansard/) - 1.3 millions de phrases en anglais et en français.
+
+* [Chinese-French Text](https://catalog.ldc.upenn.edu/LDC2018T17) - Un corpus d'environ 30000 caractères chinois vers le français.
+
+* [French-Arabic Newspapers](http://catalog.elra.info/en-us/repository/browse/ELRA-W0100/) - Un corpus de 10000 mots issus d'articles arabes et 2 traductions en français.
+
+* [Europarl English-French Machine Translation Dataset](https://datarepository.wolframcloud.com/resources/Europarl-English-French-Machine-Translation-Dataset-V7) - Corpus de texte issu du Parlement Européen entre 1996 et 2011.
+
+* [German-French website parallel corpus](https://data.europa.eu/euodp/en/data/dataset/elrc_42) - Corpus de texte allemand traduit en français
+
+* [Spanish-French website parallel corpus](https://data.europa.eu/euodp/en/data/dataset/elrc_338) - Corpus de texte espagnol traduit en français
+
+### Articles
+
+A
 
 # Résumé de texte
 
